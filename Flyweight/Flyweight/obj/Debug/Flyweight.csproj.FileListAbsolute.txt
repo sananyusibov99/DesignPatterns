@@ -1,0 +1,10 @@
+C:\Users\Usib_uf00\source\repos\Flyweight\Flyweight\obj\Debug\Flyweight.csprojAssemblyReference.cache
+C:\Users\Usib_uf00\source\repos\Flyweight\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\Usib_uf00\source\repos\Flyweight\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\Usib_uf00\source\repos\Flyweight\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\Usib_uf00\source\repos\Flyweight\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\Usib_uf00\source\repos\Flyweight\Flyweight\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usib_uf00\source\repos\Flyweight\Flyweight\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usib_uf00\source\repos\Flyweight\Flyweight\obj\Debug\Flyweight.csproj.CopyComplete
+C:\Users\Usib_uf00\source\repos\Flyweight\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\Usib_uf00\source\repos\Flyweight\Flyweight\obj\Debug\Flyweight.pdb
