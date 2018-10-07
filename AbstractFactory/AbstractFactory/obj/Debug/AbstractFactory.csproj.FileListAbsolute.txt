@@ -1,0 +1,7 @@
+C:\Users\sanan\source\repos\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\sanan\source\repos\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\sanan\source\repos\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\sanan\source\repos\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\sanan\source\repos\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\sanan\source\repos\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\sanan\source\repos\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
